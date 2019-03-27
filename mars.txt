@@ -11,3 +11,5 @@ git commmit -m "message"
 
 git diff -> to see the different
 	git diff --
+
+This is owner's text - to let you know
