@@ -1,15 +1,3 @@
 This is from the Collaborator Ian
-Ctr + O to save file. then just type enter to save the change. Ctr + X to exit
-
-
-nano mars.txt: create the file. cat mars.txt : view the file
-
-
-git status: -> ; 
-git add mars.txt  ; 
-git commmit -m "message"
-
-git diff -> to see the different
-	git diff --
 
 This is owner's text - to let you know
