@@ -1,6 +1,12 @@
-Ctr + O to save file
-Ctr + X to exit
+Ctr + O to save file. then just type enter to save the change. Ctr + X to exit
 
 
-nano mars.txt: create the file
-cat mars.txt : view the file
+nano mars.txt: create the file. cat mars.txt : view the file
+
+
+git status: -> ; 
+git add mars.txt  ; 
+git commmit -m "message"
+
+git diff -> to see the different
+
