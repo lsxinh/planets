@@ -9,4 +9,4 @@ git add mars.txt  ;
 git commmit -m "message"
 
 git diff -> to see the different
-
+	git diff --
