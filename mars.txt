@@ -1,3 +1,6 @@
 Ctr + O to save file
 Ctr + X to exit
 
+
+nano mars.txt: create the file
+cat mars.txt : view the file
